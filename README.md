@@ -1,27 +1,31 @@
-
-# Mert Ali Türk
+# Mert Ali Turk
 
 **`Embedded Software Engineer`**
 
-I'm master student in Embedded System Design,and content creator [Mert Turk ][youtube].
+## Introduction
 
-   <!-- <p align="left">
-      <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a>
-      <a href="https://www.youtube.com/c/fknight">
-         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a>
-   </p> -->
+Welcome to my GitHub profile!
 
----
+My name is Mert, and I am an **Embedded Software Engineer**.
 
+Feel free to explore my projects and repositories. If you have any questions, need help with a software-related project, or would like to discuss an idea, feel free to reach out to me via [email][email].
 
+## YouTube
 
+I also enjoy sharing what I learn about embedded systems and software development on my YouTube channel.
 
-[website]: https://mert-turk.github.io/
+If you are interested, feel free to take a look:
+
+**[Visit my YouTube Channel][youtube]**
+
+> My videos are in Turkish.
+
+## Website
+
+You can take a look at my personal website to learn more about my background and expertise.
+
+**[Personal Website][website]**
+
+[email]: mturkba@gmail.com
 [youtube]: https://www.youtube.com/@MertTurkk
-
-
-
-
-
-
+[website]: https://mert-turk.github.io/
